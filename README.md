@@ -1,2 +1,4 @@
-# PYTORCH NEURAL NETWORK TEST
-### This is a repo to test pytorch capability
+# PYTORCH NEURAL NETWORK
+### A simple neural network written in python using the pytorch library
+
+
